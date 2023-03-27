@@ -6,12 +6,12 @@
 2- [2,6,16,22,18,27] -> 6 ile 27 yer değiştirdi. <br />
 3- [2,6,16,18,22,27] -> 18 ile 22 yer değiştirdi. <br />
 
-### Bu algoritmanın Big-O gösterimi şu şekildedir:
+### Bu algoritmanın Big-O gösterimi şu şekildedir: <br />
 
-n + (n - 1) + (n - 2) ... + 1
-= n * (n + 1) / 2
-= (n^2 + n) / 2
-= O(n^2)
+n + (n - 1) + (n - 2) ... + 1 <br />
+= n * (n + 1) / 2 <br />
+= (n^2 + n) / 2 <br />
+= O(n^2) <br />
 
 #### Dizi sıralandıktan sonra 18 sayısının Time Complexity'si Average Case'dir
 
