@@ -13,11 +13,11 @@ n + (n - 1) + (n - 2) ... + 1 <br />
 = (n^2 + n) / 2 <br />
 = O(n^2) <br />
 
-#### Dizi sıralandıktan sonra 18 sayısının Time Complexity'si Average Case'dir
+### Dizi sıralandıktan sonra 18 sayısının Time Complexity'si Average Case'dir <br />
 
-### [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 aşaması:
+### [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 aşaması: <br />
 
-1- [2,3,5,8,7,9,4,15,6] -> 2 ile 7 yer değiştridi.
-2- [2,3,4,8,7,9,5,15,6] -> 4 ile 5 yer değiştirdi.
-3- [2,3,4,5,7,9,8,15,6] -> 5 ile 8 yer değiştirdi.
-4- [2,3,4,5,6,9,8,15,7] -> 6 ile 7 yer değiştirdi.
+1- [2,3,5,8,7,9,4,15,6] -> 2 ile 7 yer değiştridi. <br />
+2- [2,3,4,8,7,9,5,15,6] -> 4 ile 5 yer değiştirdi. <br />
+3- [2,3,4,5,7,9,8,15,6] -> 5 ile 8 yer değiştirdi. <br />
+4- [2,3,4,5,6,9,8,15,7] -> 6 ile 7 yer değiştirdi. <br />
