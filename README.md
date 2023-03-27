@@ -2,7 +2,7 @@
 
 ### [22,27,16,2,18,6] -> Dizisinin Insertion Sort'a göre aşamaları: <br />
 
-1- [2,27,16,22,18,6] -> 2 ile 22 yer değiştirdi.
+1- [2,27,16,22,18,6] -> 2 ile 22 yer değiştirdi. <br />
 2- [2,6,16,22,18,27] -> 6 ile 27 yer değiştirdi.
 3- [2,6,16,18,22,27] -> 18 ile 22 yer değiştirdi.
 
